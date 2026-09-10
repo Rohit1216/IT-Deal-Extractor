@@ -1,0 +1,22 @@
+# Secrets — never commit this
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Outputs (generated JSON research results)
+outputs/*.json
+
+# Database (added in a later phase)
+*.db
+*.sqlite3
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

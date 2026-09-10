@@ -1,0 +1,60 @@
+{
+  "google wiz": [
+    {
+      "url": "https://blog.google/inside-google/company-announcements/google-wiz-acquisition/",
+      "title": "Google Cloud to Acquire Wiz",
+      "snippet": "Google announced a definitive agreement to acquire Wiz, a cloud security company, for approximately $32 billion in an all-cash transaction.",
+      "publication_date": "2025-03-18"
+    },
+    {
+      "url": "https://www.reuters.com/technology/google-buy-cybersecurity-startup-wiz-32-billion-2025-03-18/",
+      "title": "Google to buy cybersecurity startup Wiz for $32 billion",
+      "snippet": "Alphabet's Google said on Tuesday it would buy cloud security startup Wiz for $32 billion in an all-cash deal, its largest ever acquisition.",
+      "publication_date": "2025-03-18"
+    },
+    {
+      "url": "https://www.reuters.com/technology/google-buy-cybersecurity-startup-wiz-32-billion-2025-03-18/?utm_source=twitter&utm_medium=social",
+      "title": "Google to buy cybersecurity startup Wiz for $32 billion",
+      "snippet": "Alphabet's Google said on Tuesday it would buy cloud security startup Wiz for $32 billion in an all-cash deal, its largest ever acquisition.",
+      "publication_date": "2025-03-18"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-03-18/google-wiz-acquisition-32-billion",
+      "title": "Google Agrees to Buy Wiz for $32 Billion in Its Biggest Deal Ever",
+      "snippet": "Alphabet Inc.'s Google agreed to acquire cybersecurity startup Wiz Inc. for $32 billion, the largest deal in the search giant's history.",
+      "publication_date": "2025-03-18"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20250318/en/Google-Wiz-Definitive-Agreement",
+      "title": "Google and Wiz Announce Definitive Agreement",
+      "snippet": "Google today announced it has entered into a definitive agreement to acquire Wiz, a cloud security platform.",
+      "publication_date": "2025-03-18"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/google-wiz-definitive-agreement-032918.html",
+      "title": "Google and Wiz Announce Definitive Agreement",
+      "snippet": "Google today announced it has entered into a definitive agreement to acquire Wiz, a cloud security platform.",
+      "publication_date": "2025-03-18"
+    },
+    {
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=wiz",
+      "title": "Wiz - SEC EDGAR Filings",
+      "snippet": "SEC filings related to the proposed transaction between Alphabet Inc. and Wiz Inc.",
+      "publication_date": null
+    },
+    {
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/03/ftc-review-google-wiz",
+      "title": "FTC Statement on Google-Wiz Transaction Review",
+      "snippet": "The Federal Trade Commission is reviewing the proposed acquisition of Wiz by Google under standard antitrust procedures.",
+      "publication_date": "2025-03-25"
+    }
+  ],
+  "_default": [
+    {
+      "url": "https://example-news.com/generic-deal-story",
+      "title": "Generic deal coverage",
+      "snippet": "No mock dataset entry matched this query; returning a generic placeholder result.",
+      "publication_date": null
+    }
+  ]
+}
